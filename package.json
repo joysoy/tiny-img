@@ -1,0 +1,35 @@
+{
+  "name": "@joysoy/gulp-tiny-img",
+  "version": "1.0.0",
+  "description": "use tinypng api with no key.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test-tiny-img"
+  },
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joysoy/tiny-img.git"
+  },
+  "keywords": [
+    "gulp",
+    "npm"
+  ],
+  "author": "life4fun.net",
+  "engines": {
+    "node": ">=0.12.7"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "~3.9.1",
+    "gulp-util": "~2.2.14",
+    "request": "~2.31.0",
+    "through2": "~0.4.2"
+  },
+  "bugs": {
+    "url": "https://github.com/joysoy/tiny-img/issues"
+  },
+  "homepage": "https://github.com/joysoy/tiny-img#readme"
+}
